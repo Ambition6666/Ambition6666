@@ -29,12 +29,12 @@ Here are some ideas to get you started:
     <li>📝 我个人比较喜欢分享，所以经常使用<a href="https://juejin.cn/user/128017175944557">稀土掘金</a>、<a href="https://www.yuque.com/zeovo-10k9s">语雀</a>等平台分享一些自己学习过程中的收获,如果你感兴趣的话，可以关注一下。</li>
     <li>💻 我是一名后端程序员，主要技术栈为<b>golang、SQL以及前端三件套(HTML、CSS、JavaScript)。</b></li>
     <li>😺 短视频平台:平时主要使用 <a href="https://space.bilibili.com/486524838?spm_id_from=333.1007.0.0">B站</a>多一点，偶尔也刷刷抖音</li>
-    <li>💬 主要项目：用户中心 | Yao-Java_GOF | qinyao-qinyaorpc(轻夭 RPC 框架) | Yaoyu-frame(夭语框架,开发ing.....) </li>
+    <li>💬 主要项目：学习平台|IM即时聊天系统|抖声 </li>
     <li>👯 兴趣爱好：本人比较喜欢数学以及睡觉，平时偶尔会打打数学建模，所以如果你对于数学建模感兴趣的话，咋们也可以聊一聊。</li>
     <li>⚡ Fun fact: Je connais un peu le français</li>
     <li>🧑‍💻 常用开发工具：</li>
     <span>
-    <img src="https://camo.githubusercontent.com/ec75fffa4a003fa9ea6ba393834fdbf4fab55e5252776c41024e811a351fdec7/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6a6176612f6a6176612d69636f6e2e737667" alt="java" width="65" height="65" data-canonical-src="https://www.vectorlogo.zone/logos/java/java-icon.svg" style="width: 50px;">   
+    <img src="https://camo.githubusercontent.com/ec75fffa4a003fa9ea6ba393834fdbf4fab55e5252776c41024e811a351fdec7/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6a6176612f6a6176612d69636f6e2e737667" alt="java" width="65" height="65" data-canonical-src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" style="width: 50px;">   
     </span>
     <span>
     <img src="https://camo.githubusercontent.com/e9306bcaa5457a3bb58aa38c9f2fb71e856479bd7a3726204ca07412e45f667f/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f707974686f6e2f707974686f6e2d69636f6e2e737667" alt="python" width="55" height="55" data-canonical-src="https://www.vectorlogo.zone/logos/python/python-icon.svg" style="width: 50px;">
@@ -68,12 +68,12 @@ Here are some ideas to get you started:
 <hr/>
 
 ### <h2><img src="https://camo.githubusercontent.com/18a2fa2ff29bbb86a86819ec50536c3c38bc9fc0ca6b3d17ef48eaf50ea34983/68747470733a2f2f6d65646961312e67697068792e636f6d2f6d656469612f6475334a336358797a686a3735494f6776412f67697068792e6769663f6369643d65636630356534377832673033346939707a77747a7a7364337867673277396e723934743474666c6262676f33303038267269643d67697068792e676966" data-canonical-src="https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&amp;rid=giphy.gif" style="width: 30px; display: inline-block;" data-target="animated-image.originalImage"> My Github status(我的 Github 状态)</h2>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DIDA-LJ&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ambiton6666&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DIDA-LJ)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Ambiton6666)](https://git.io/streak-stats)
 <hr/>
 
 <hr/>
 
 ### <h2><img align="center" src="https://camo.githubusercontent.com/b6d35fb48e8172f046a782ed357a0d5180b4751809f8e221d934b478072abe42/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f55514453427a667969424b766746635354772f67697068792e6769663f6369643d656366303565343770336364353133617862656b336635367469336a7a697a713868696e637732306a61757979667977267269643d67697068792e676966" data-canonical-src="https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&amp;rid=giphy.gif" style="width: 30px; display: inline-block;" data-target="animated-image.originalImage">Here's some humor for you:</h2>
-![image](https://github.com/DIDA-lJ/DIDA-LJ/assets/97254796/d24c5053-657a-4b46-b2bb-90b6006878c0)
+![image](https://github.com/Ambiton6666/Ambiton6666/assets/97254796/d24c5053-657a-4b46-b2bb-90b6006878c0)
