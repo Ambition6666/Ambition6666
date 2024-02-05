@@ -32,7 +32,6 @@ Here are some ideas to get you started:
     <li>💬 主要项目：学习平台|IM即时聊天系统|抖声 </li>
     <li>👯 兴趣爱好：本人比较喜欢数学以及睡觉，平时偶尔会打打数学建模，所以如果你对于数学建模感兴趣的话，咋们也可以聊一聊。</li>
     <li>⚡ Fun fact: Je connais un peu le français</li>
-    <li>🧑‍💻 常用开发工具：</li>
     
 
 ### <h2><img align="center" src="https://camo.githubusercontent.com/b6d35fb48e8172f046a782ed357a0d5180b4751809f8e221d934b478072abe42/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f55514453427a667969424b766746635354772f67697068792e6769663f6369643d656366303565343770336364353133617862656b336635367469336a7a697a713868696e637732306a61757979667977267269643d67697068792e676966" data-canonical-src="https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&amp;rid=giphy.gif" style="width: 30px; display: inline-block;" data-target="animated-image.originalImage">Here's some humor for you:</h2>
