@@ -25,7 +25,7 @@ Here are some ideas to get you started:
     <li>🏦I'm a rookie programmer on the backend of Golang in China, and I would like to ask you for your advice! </li>
     <li>📝 Personally, I like to share, so I often use <a href="https://juejin.cn/user/3345163273897063">Rare earth nuggets</a>、<a href="https://www.yuque.com/ambition-3zra2">Whispering Sparrow</a> and other platforms to share some of my gains in the learning process, if you are interested, you can pay attention to it.</li>
     <li>💻 I'm a back-end programmer with a golang, SQL, and front-end triad (HTML, CSS, JavaScript).</b></li>
-    <li>😺 Short video platform: I usually use blibli<a href="https://space.bilibili.com/492340005?spm_id_from=333.999.0.0">Blibli</a> a little more, and occasionally I also brush Douyin</li>
+    <li>😺 Short video platform: I usually use <a href="https://space.bilibili.com/492340005?spm_id_from=333.999.0.0">Blibli</a> a little more, and occasionally I also brush Douyin</li>
     <li>💬 Major projects：Learning platform|IM live chat system|DouShen|micro </li>
     <li>👯 Hobbies: I like math and sleeping, and I usually occasionally play mathematical modeling, so if you are interested in mathematical modeling, why don't you talk about it.</li>
   <ul>
