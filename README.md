@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <div>
   <ul>
     <li>🏦我是中国的一个 golang 后端的菜鸟程序员，还请各位大佬多多指教！ </li>
-    <li>📝 我个人比较喜欢分享，所以经常使用<a href="https://juejin.cn/user/3345163273897063">稀土掘金</a>、<a href="https://www.yuque.com/zeovo-10k9s">语雀</a>等平台分享一些自己学习过程中的收获,如果你感兴趣的话，可以关注一下。</li>
+    <li>📝 我个人比较喜欢分享，所以经常使用<a href="https://juejin.cn/user/3345163273897063">稀土掘金</a>、<a href="https://www.yuque.com/ambition-3zra2">语雀</a>等平台分享一些自己学习过程中的收获,如果你感兴趣的话，可以关注一下。</li>
     <li>💻 我是一名后端程序员，主要技术栈为<b>golang、SQL以及前端三件套(HTML、CSS、JavaScript)。</b></li>
     <li>😺 短视频平台:平时主要使用 <a href="https://space.bilibili.com/492340005?spm_id_from=333.999.0.0">B站</a>多一点，偶尔也刷刷抖音</li>
     <li>💬 主要项目：学习平台|IM即时聊天系统|抖声 </li>
