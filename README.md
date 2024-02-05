@@ -40,9 +40,6 @@ Here are some ideas to get you started:
     <img src="https://camo.githubusercontent.com/e9306bcaa5457a3bb58aa38c9f2fb71e856479bd7a3726204ca07412e45f667f/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f707974686f6e2f707974686f6e2d69636f6e2e737667" alt="python" width="55" height="55" data-canonical-src="https://www.vectorlogo.zone/logos/python/python-icon.svg" style="width: 50px;">
     </span>
     <span>
-      <img src="https://camo.githubusercontent.com/4545b55c7771bbd175235c80b518dcbbf2f6ee0b984a51ad9363cba8cb70e67c/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f737072696e67696f2f737072696e67696f2d69636f6e2e737667" alt="spring" width="55" height="55" data-canonical-src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" style="width: 50px;">
-    </span>
-    <span>
       <img src="https://camo.githubusercontent.com/ff6f52ffdfce44372e3be3eda37d354ce2a15874e9b15996c2263172683f7bcd/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6d7973716c2f6d7973716c2d69636f6e2e737667" alt="mysql" width="45" height="55" data-canonical-src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" style="width: 50px;">
     </span>
     <span>
@@ -57,13 +54,9 @@ Here are some ideas to get you started:
     <span>
       <img src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" alt="GIT" width="55" height="55" data-canonical-src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="width: 50px;">
     </span>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tomcat/tomcat-original.svg" alt="Tomcat" width="40" height="40" style="max-width: 100%;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40" style="max-width: 100%;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40" style="max-width: 100%;">
   </ul>
-</div>
-<div>
-  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Mario_Gameplay.gif" alt="Mario Game" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 </div>
 <hr/>
 <hr/>
